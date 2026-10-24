@@ -1,6 +1,6 @@
 # 💫 About Me:
-i am currently working on an ESP32-S3 ai assistant with a touchscreen keyboard and audio<br>
-
+Informatics and Software Sciences student at the Technical University of Sofia<br>
+Learning more Python and embedded systems
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:danielhaskovo2007@gmail.com) 
